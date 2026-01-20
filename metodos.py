@@ -33,3 +33,11 @@ reverse()
 """
 lista.reverse()
 print(lista)
+
+
+""" 
+pop()
+    O método .pop() remove e retorna o elemento da posição indicada.
+"""
+print(lista.pop(1))
+print(lista)
